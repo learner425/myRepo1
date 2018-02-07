@@ -9,3 +9,6 @@ This is the 1st line.
 This is the last line.
 --------------------------------------
 Adding a new paragraph:
+xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx
