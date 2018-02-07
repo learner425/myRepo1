@@ -8,3 +8,4 @@ This is the last line.
 --------------------------------------
 Adding a new paragraph:
 this is the start of a new paragraph in the story.
+And, the story continues to the 2nd line.
