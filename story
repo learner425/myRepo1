@@ -4,8 +4,7 @@ This is the 1st line.
 4th line
 5th line
 ...
-...
-...
 This is the last line.
 --------------------------------------
 Adding a new paragraph:
+this is the start of a new paragraph in the story.
